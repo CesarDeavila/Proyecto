@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    padding: 0;  
+    background-color: #F5E1C3;
+}
+
+.title{
+    text-align: center;
+    font-size: 60px;
+    color:white;
+    margin-top: 100px;
+    font-weight: 100;
+}
+
+.Sub{
+    text-align: center;
+    color:white;
+    
+}
+
+.Parrafo{
+    text-align: center;
+    color: black;
+}
+.Negrita{
+    color:blue;
+}
